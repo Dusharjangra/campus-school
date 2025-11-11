@@ -1,0 +1,5 @@
+{
+  "name": "Campus Connect Carpool",
+  "description": "A ride-sharing platform exclusively for college students to find and offer rides for daily commutes or holiday travel. Verification via college email ensures a safe and trusted community.",
+  "requestFramePermissions": []
+}
